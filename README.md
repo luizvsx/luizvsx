@@ -1,6 +1,6 @@
 ## Hi, I'm Luiz Santos ✨
 🧠 Computer science student at UFPel.<br/>
-🌱 I’m currently learning Machine Learning and Computer Vision.<br/>
+🌱 I’m currently learning ML and Computer Vision.<br/>
 
 
 # 💻 Tech Stack:
